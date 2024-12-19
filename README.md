@@ -1,4 +1,4 @@
-# CD_Classification-Classification_of_CD_spectra_using_linear_and_non_linear_information
+# CD Classification
 This reposiroty is made to host a workflow that create a reference spectrum for a set of CD spectra and evaluate it using linear and non-linear information.
 ## Input
 This workflow take on input **2** files, one containing data from CD spectra and one associating the name of each spectra to a theoretical class. This theoretical class can be designed by the means of your choice, spectral aspect or theorétical structure of your spectrum. The datafiles can be organised in columns or in lines with at the beginning of each column, or line, the name of the spectra corresponding to the ones in the reference file where it is associated to a class.
